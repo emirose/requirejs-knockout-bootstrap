@@ -1,0 +1,20 @@
+{
+  "name": "Requirejs-Knockout-bootstrap",
+  "description": "RequireJS & Knockout bootstrap",
+  "version": "0.0.1",
+  "devDependencies": {
+    "grunt": "",
+    "phantomjs": "",
+    "grunt-contrib-jasmine": "",
+    "grunt-contrib-coffee": "",
+    "grunt-contrib-clean": "",
+    "grunt-contrib-watch": "",
+    "grunt-coffeelint": "",
+    "karma": "^0.12.16",
+    "grunt-karma": "^0.8.3",
+    "karma-jasmine": "^0.1.5",
+    "requirejs": "^2.1.14",
+    "karma-requirejs": "^0.2.2",
+    "karma-phantomjs-launcher": "^0.1.4"
+  }
+}
